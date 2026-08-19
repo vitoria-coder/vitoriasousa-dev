@@ -40,16 +40,53 @@ Cloud Fundamentals
 
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs" />
 
-| | Focus |
-|:---:|:---|
-| **01** | `Next.js` · `TypeScript` · `React` |
-| **02** | `Node.js` · `Express` · `REST APIs` |
-| **03** | `Software Architecture` · `Backend Engineering` |
-| **04** | `AWS` · `Cloud Fundamentals` |
-| **05** | `Cybersecurity` · `Secure Development` |
+<br><br>
 
+**Next.js** · **TypeScript**  
+React · Node.js
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,docker" />
+
+<br><br>
+
+Backend Engineering  
+APIs · Databases · Application Design
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs" />
+
+<br><br>
+
+Software Architecture  
+Scalable & Maintainable Applications
+
+</td>
+
+<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=aws" />
+<br><br>
+
+Cloud Computing · AWS  
+Cybersecurity
+
+</td>
+</tr>
+</table>
 </div>
+
 
 
 GitHub
