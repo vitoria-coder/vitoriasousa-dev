@@ -1,36 +1,35 @@
 <div align="center">
 Vitória Sousa
 Full Stack Developer · Next.js · TypeScript · React · Node.js
-Building modern web applications with a focus on clean architecture, scalable solutions, and the TypeScript ecosystem.
+Building modern web applications with a strong focus on TypeScript, Next.js, and software engineering.
 
-<br /> <a href="www.linkedin.com/in/vitória-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
+<br /> <a href="https://www.linkedin.com/in/vit%C3%B3ria-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
 
 About
 I'm a Computer Science / Software Development student and developer focused on building modern web applications across the frontend and backend.
 
-My current focus is the TypeScript ecosystem, particularly Next.js, React, and Node.js. I'm also developing my understanding of software architecture, backend engineering, databases, cloud computing, and cybersecurity.
+My current technical focus is the TypeScript ecosystem, particularly Next.js, React, and Node.js. I'm also expanding my knowledge of software architecture, backend engineering, databases, cloud computing, and cybersecurity.
 
 Tech Stack
 <div align="center">
 Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" alt="Next.js, React, TypeScript, JavaScript, HTML and CSS" /> <br />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" alt="Next.js, React, TypeScript, JavaScript, HTML and CSS" />
 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" /> <br />
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
 Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" /> <br />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" alt="Git, Docker, Postman and VS Code" /> <br />
+<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" alt="Git, Docker, Postman and VS Code" />
 Cloud
 <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /> </div>
-
 Engineering Focus
 <table> <tr> <td width="50%" valign="top">
 Full Stack Development
-Building applications across the frontend and backend with a focus on structure, maintainability, and practical problem solving.
+Building applications across frontend and backend with a focus on structure, maintainability, and practical problem solving.
 
 </td> <td width="50%" valign="top">
 Modern Frontend
-Exploring modern application patterns with Next.js, React, and TypeScript.
+Exploring modern frontend development with Next.js, React, and TypeScript.
 
 </td> </tr> <tr> <td width="50%" valign="top">
 Backend Engineering
@@ -38,7 +37,7 @@ Developing knowledge around Node.js, Express, REST APIs, databases, and server-s
 
 </td> <td width="50%" valign="top">
 Software Architecture
-Learning how to structure applications that are maintainable, scalable, and easier to evolve.
+Learning how to design applications that are maintainable, structured, and prepared to scale.
 
 </td> </tr> <tr> <td width="50%" valign="top">
 Cloud Computing
@@ -47,26 +46,41 @@ Building foundations in AWS and cloud-based application development.
 </td> <td width="50%" valign="top">
 Cybersecurity
 Developing a stronger understanding of security principles and secure software development.
-
 </td> </tr> </table>
+
 Current Focus
 <div align="center"> <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,aws" alt="Next.js, TypeScript, React, Node.js and AWS" />
 <br /><br />
 
-NEXT.JS  ·  TYPESCRIPT  ·  BACKEND  ·  ARCHITECTURE  ·  AWS
+<strong>Next.js</strong>
+  ·  
+<strong>TypeScript</strong>
+  ·  
+<strong>Backend Engineering</strong>
+  ·  
+<strong>Software Architecture</strong>
+  ·  
+<strong>AWS</strong>
 
 </div> <br />
-Currently going deeper into Next.js and TypeScript, while expanding my knowledge of backend engineering, software architecture, cloud computing, and cybersecurity.
+Currently going deeper into Next.js and TypeScript, while expanding my understanding of backend engineering, software architecture, cloud computing, and cybersecurity.
 
-GitHub
-<div align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" alt="GitHub statistics" /> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400" alt="Top programming languages" /> </a> </div>
+GitHub Activity
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top Languages" />
+
+</div>
+Important: replace SEU_USERNAME_GITHUB with your exact GitHub username. I cannot safely fill this in because you have not provided your GitHub profile URL, and guessing it would make both statistics cards fail to load.
+
 Career Direction
-I'm building toward a career as a Software / Full Stack Developer, specializing in modern web development and the TypeScript ecosystem.
+I'm building toward a career as a Software / Full Stack Developer, with a focus on modern web development and the TypeScript ecosystem.
 
-My direction is to grow from application development into deeper knowledge of backend engineering, software architecture, cloud computing, and secure software development.
+My direction is to deepen my knowledge of backend engineering, software architecture, cloud computing, and secure software development.
 
 Connect
-<div align="center"> <a href="www.linkedin.com/in/vitória-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
- 
+<div align="center"> <a href="https://www.linkedin.com/in/vit%C3%B3ria-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div> <br /> <div align="center">
+<sub>Building with intention. Learning continuously. Growing through software engineering.</sub>
 
-<a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div> 
+</div>
