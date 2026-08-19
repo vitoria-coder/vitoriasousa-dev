@@ -3,7 +3,7 @@ Vitória Sousa
 Full Stack Developer · Next.js · TypeScript · React · Node.js
 Building modern web applications with a focus on clean architecture, scalable solutions, and the TypeScript ecosystem.
 
-<br /> <a href="https://www.linkedin.com/in/vitoria-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
+<br /> <a href="www.linkedin.com/in/vitória-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
 
 About
 I'm a Computer Science / Software Development student and developer focused on building modern web applications across the frontend and backend.
@@ -66,7 +66,7 @@ I'm building toward a career as a Software / Full Stack Developer, specializing 
 My direction is to grow from application development into deeper knowledge of backend engineering, software architecture, cloud computing, and secure software development.
 
 Connect
-<div align="center"> <a href="https://www.linkedin.com/in/vitoria-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+<div align="center"> <a href="www.linkedin.com/in/vitória-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
  
 
-<a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div> :::{"fallbackMarkdown":"","reference":{"matched_text":" ","prefix":null,"start_idx":5255,"end_idx":5255,"safe_urls":[],"refs":[],"alt":"","prompt_text":null,"type":"sources_footnote","sources":[],"has_images":false},"showLoginRequiredCard":false}
+<a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </div> 
