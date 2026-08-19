@@ -66,30 +66,6 @@ NEXT.JS  ·  TYPESCRIPT  ·  BACKEND  ·  ARCHITECTURE  ·  AWS
 </div>
 I'm currently going deeper into Next.js and TypeScript, while expanding my understanding of backend engineering, software architecture, cloud computing, and cybersecurity.
 
-Projects
-Selected projects will live here as I continue building and refining my portfolio.
-
-[ Project Name ]
-[ Short description of the project and the problem it solves. ]
-
-Next.js · TypeScript · [Technology]
-
-Problem
-[What problem does the application solve?]
-
-Links
-[Live Demo] · [Source Code]
-
-[ Project Name ]
-[ Short description of the project and the problem it solves. ]
-
-[Technology] · [Technology] · [Technology]
-
-Problem
-[What problem does the application solve?]
-
-Links
-[Live Demo] · [Source Code]
 
 GitHub Activity
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"> </div>
