@@ -1,119 +1,60 @@
-````md
-<h1 align="center">Vitória Sousa</h1>
+<div aling ="center">
+Vitória Sousa
 
-<p align="center">
-  Software Developer focused on TypeScript, React and modern web applications
-</p>
+Full Stack Developer  · Next.js · TypeScript · React · Node.js
+Building modern web applications with a strong focus on TypeScript, Next.js, and software engineering fundamentals.
 
-<p align="center">
-  Building scalable and modern web experiences with TypeScript, React and Node.js.
-</p>
+<p> <a href="www.linkedin.com/in/vitória-sousa-dev">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:vitoriasousam17@gmail.com">Email</a> </p> </div>
 
----
+I'm a Computer Science / Software Development student and developer focused on building modern web applications across the frontend and backend.
 
-## 👩‍💻 About Me
+My current technical focus is the TypeScript ecosystem, particularly Next.js, React, and Node.js. I'm also developing my understanding of software architecture, backend engineering, databases, cloud computing, and cybersecurity.
 
-```ts
-const vitoria = {
-  education: "Computer Science",
-  focus: [
-    "Frontend Development",
-    "Backend Architecture",
-    "Full Stack Applications",
-    "Cloud Fundamentals",
-    "Software Engineering"
-  ],
-  currentlyLearning: [
-    "AWS",
-    "Cybersecurity",
-    "Software Architecture"
-  ]
-}
-````
+Tech Stack
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" alt="Frontend technologies" /> </p>
 
----
+Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies" /> </p>
 
-## 🚀 Tech Stack
+Databases
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database technologies" /> </p>
 
-<div align="center">
+DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" alt="Development tools" /> </p>
 
-### Frontend
+Cloud & Learning
+<p> <img src="https://skillicons.dev/icons?i=aws" alt="Cloud technologies" /> </p>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,css,html" />
+Engineering Focus
+I'm interested in the engineering decisions behind reliable web applications, not only the technologies used to build them.
 
-### Backend & Database
+Full Stack Web Applications
+Modern Frontend Architecture
+REST API Development
+Backend Engineering
+Database Design
+Software Architecture
+Scalable Application Design
+Cloud Fundamentals
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+Current Focus
+Next.js              ████████████████████
+TypeScript           ████████████████████
+Backend Engineering  ███████████████░░░░░
+Software Architecture██████████████░░░░░░
+AWS                  ████████████░░░░░░░░
+Cybersecurity        ██████████░░░░░░░░░░
+Currently deepening my knowledge of Next.js and TypeScript while expanding toward backend engineering, software architecture, AWS, and cybersecurity.
 
-### Tools & Infrastructure
+GitHub
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top programming languages" /> </div>
 
-<img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" />
+Career Direction
+I'm building toward a career as a Software / Full Stack Developer, with a focus on modern web development and the TypeScript ecosystem.
 
-</div>
+My learning path is expanding from application development into backend engineering, software architecture, cloud computing, and secure software development.
 
----
+Connect
+<div align="center"> <a href="www.linkedin.com/in/vitória-sousa-dev"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:vitoriasousam17@gmail.com"> <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> </div>
 
-## 📚 Knowledge Areas
-
-<table align="center">
-<tr>
-<td valign="top">
-
-### Development
-
-* Modern frontend
-* REST APIs
-* Scalable applications
-* Full stack systems
-
-</td>
-
-<td valign="top">
-
-### Computer Science
-
-* Cybersecurity fundamentals
-* Database systems
-* Software architecture
-* Software engineering
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vitoriasousa-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriasousa-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-* Build scalable full stack applications
-* Improve backend engineering skills
-* Deepen TypeScript ecosystem knowledge
-* Study cloud infrastructure
-* Contribute to real-world projects
-
----
-
-## 📫 Contact
-
-<p align="left">
-  <a href="https://linkedin.com/in/vitória-sousa-100701260">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:vitoriasousam17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-```
