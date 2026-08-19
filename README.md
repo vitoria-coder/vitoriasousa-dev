@@ -14,16 +14,22 @@ Tech Stack
 <div align="center">
 Frontend
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" alt="Next.js, React, TypeScript, JavaScript, HTML and CSS" />
+
 Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
+
 Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL" />
+
 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" alt="Git, Docker, Postman and VS Code" />
+
 Cloud
 <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /> </div>
+
 Engineering Focus
 <table> <tr> <td width="50%" valign="top">
+
 Full Stack Development
 Building applications across frontend and backend with a focus on structure, maintainability, and practical problem solving.
 
