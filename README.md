@@ -38,14 +38,19 @@ Software Architecture
 Scalable Application Design
 Cloud Fundamentals
 
-Current Focus
-Next.js              ████████████████████
-TypeScript           ████████████████████
-Backend Engineering  ███████████████░░░░░
-Software Architecture██████████████░░░░░░
-AWS                  ████████████░░░░░░░░
-Cybersecurity        ██████████░░░░░░░░░░
-Currently deepening my knowledge of Next.js and TypeScript while expanding toward backend engineering, software architecture, AWS, and cybersecurity.
+## Current Focus
+**01 — Next.js & TypeScript**  
+Building stronger foundations in modern full stack web development.
+
+**02 — Backend Engineering**  
+Deepening my understanding of APIs, application structure, databases, and backend development.
+
+**03 — Software Architecture**  
+Learning how to design maintainable, scalable, and well-structured applications.
+
+**04 — Cloud & Security**  
+Exploring AWS and developing a stronger foundation in cybersecurity.
+
 
 GitHub
 <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top programming languages" /> </div>
