@@ -38,18 +38,18 @@ Software Architecture
 Scalable Application Design
 Cloud Fundamentals
 
-## Current Focus
-**01 — Next.js & TypeScript**  
-Building stronger foundations in modern full stack web development.
 
-**02 — Backend Engineering**  
-Deepening my understanding of APIs, application structure, databases, and backend development.
+<div align="center">
 
-**03 — Software Architecture**  
-Learning how to design maintainable, scalable, and well-structured applications.
+| | Focus |
+|:---:|:---|
+| **01** | `Next.js` · `TypeScript` · `React` |
+| **02** | `Node.js` · `Express` · `REST APIs` |
+| **03** | `Software Architecture` · `Backend Engineering` |
+| **04** | `AWS` · `Cloud Fundamentals` |
+| **05** | `Cybersecurity` · `Secure Development` |
 
-**04 — Cloud & Security**  
-Exploring AWS and developing a stronger foundation in cybersecurity.
+</div>
 
 
 GitHub
